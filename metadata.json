@@ -1,0 +1,5 @@
+{
+  "name": "Excel ID Filter AI",
+  "description": "A powerful data processing tool that filters large datasets based on a list of IDs. Features AI-powered column detection, fuzzy matching suggestions, and real-time data visualization.",
+  "requestFramePermissions": []
+}
